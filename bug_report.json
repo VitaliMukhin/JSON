@@ -1,0 +1,30 @@
+{
+  "Bug_id": "001",  
+  "Header": "Заголовок",
+  "Project": "Name
+  "Build": "Version",
+  "Component": "Name"
+  
+  "Severity": [
+    {
+       "1": "Blocker",
+       "2": "Critical",
+       "3": "Major",
+       "4": "Minor",
+       "5": "Trivial"
+    }
+  ],  
+  "Priority": [
+    {
+        "1": "High", 
+        "2": "Medium",
+        "3": "Low"
+    }
+  ],  
+  "Environment": "Окружение: ОС, браузер и т.п.",
+  "Precondition": "Пишем предусловия",
+  "STR": "Шаги воспроизведения бага",
+  "Actual": "Фактический результат",
+  "Expected": "Ожидаемый результат",
+  "Attachments": "Прикреплённые файлы (скриншот, видео)"
+}
