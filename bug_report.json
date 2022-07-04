@@ -1,7 +1,7 @@
 {
   "Bug_id": "001",  
   "Header": "Заголовок",
-  "Project": "Name
+  "Project": "Name",
   "Build": "Version",
   "Component": "Name"
   
@@ -22,7 +22,7 @@
     }
   ],  
   "Environment": "Окружение: ОС, браузер и т.п.",
-  "Precondition": "Пишем предусловия",
+  "Precondition": "Предусловия",
   "STR": "Шаги воспроизведения бага",
   "Actual": "Фактический результат",
   "Expected": "Ожидаемый результат",
